@@ -18,7 +18,7 @@ export default function Section2()
                         <h5 className="lowercase text-white font-bold">Eget varius erat blandit. Curabitur consequat a elit sagittis posuere.</h5>
                         <div className="flex items-center justify-center mb-6 mt-5">
                         <iframe className="md:w-[350px] md:h-[350px] h-[250px] w-[250px]"
-                            src="https://www.youtube.com/embed/L07fMeLWToE?rel=0"
+                            src="youtubevid"
                             title="PRAIZA FINANCE - INVEST IN REAL FINANCE IN DEFI"
                             frameBorder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
